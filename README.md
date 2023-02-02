@@ -1,2 +1,3 @@
 # PythonYeni
-deneme123 dosyası
+Jump için oluşturulmuştur.
+
