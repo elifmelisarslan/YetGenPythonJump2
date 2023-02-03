@@ -14,7 +14,7 @@ Bu eğitimin 1. haftası
 
 [Github Pages](https://pages.github.com/).
 
-![This is an imagine](https://yetkingencler.com/wp-content/uploads/2023/02/2023-1-Takvim.jpg)
+![This is an imagine](https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png)
 - 1. Madde
 - 2. Madde
     - 2.1. Madde
