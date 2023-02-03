@@ -14,7 +14,7 @@ Bu eğitimin 1. haftası
 
 [Github Pages](https://pages.github.com/).
 
-![This is an imagine](https://myoctocat.com/assets/imagines/base-octocat.svg)
+![This is an imagine](https://yetkingencler.com/wp-content/uploads/2023/02/2023-1-Takvim.jpg)
 - 1. Madde
 - 2. Madde
     - 2.1. Madde
