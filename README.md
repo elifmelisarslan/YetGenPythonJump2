@@ -1,3 +1,3 @@
 # PythonYeni
-Jump için oluşturulmuştur.
+Bu dosya Jump için oluşturulmuştur.
 
