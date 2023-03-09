@@ -21,4 +21,3 @@ Bu eğitimin 1. haftası
 1. Sayı
 2. Sayı
 3. Sayı
-
